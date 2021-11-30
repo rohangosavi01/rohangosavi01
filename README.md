@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**rohangosavi01/rohangosavi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer!
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Created a Ticket Viewer Web Application using Zendesk API;
+- 🇮🇳 From Maharashtra, India; 
+- 🇺🇸 Completing bacholer's degree in United States. 
+
+##### BIO
+
+- 🧑🏻‍💻 I use daily: `.python`, `.html`, `.css`, `.js`, `.c`
+- 🌍 I'm a social person, being a programmer. 
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **python projects**, **marvel cinematic universe**, **development**, **design thinking**
+- 📧 Email me at: rohangosavi01@gmail.com
+- ⚡️ Fun fact: I'm a huge fan of Marvel Cinematic Universe
+
+##### STATS
+
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohangosavi01&theme=graywhite&show_icons=true)
