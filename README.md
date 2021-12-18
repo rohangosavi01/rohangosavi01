@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rohan Gosavi 
 
-## I'm a Full-Stack Developer!
+## I'm a Full-Stack Developer Student!
 
 - 🧑🏻‍💻 I use daily: `.python`, `.html`, `.css`, `.js`, `.c`
 - 🌍 I'm a social person, being a programmer. 
