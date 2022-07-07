@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack Developer Student!
 
-- 🧑🏻‍💻 I use daily: `.python`, `.html`, `.css`, `.js`, `.c`
+- 🧑🏻‍💻 I use daily: `.python`, `.html`, `.css`, `.js`, `.c`, `.java`
 - 🌍 I'm a social person, being a programmer. 
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **python projects**, **marvel cinematic universe**, **development**, **design thinking**
