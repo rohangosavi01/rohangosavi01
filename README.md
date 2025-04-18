@@ -1,12 +1,13 @@
-# Hi there 👋, I'm Rohan Gosavi 
+# Hey there 👋 I'm Rohan Gosavi
 
-## I'm a Full-Stack Developer Student!
+## 🚀 Full-Stack Developer 
 
-- 🧑🏻‍💻 I use daily: `.python`, `.html`, `.css`, `.js`, `.c`, `.java`
-- 🌍 I'm a social person, being a programmer. 
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **python projects**, **marvel cinematic universe**, **development**, **design thinking**
-- 📧 Email me at: rohangosavi01@gmail.com
-- ⚡️ Fun fact: I'm a huge fan of Marvel Cinematic Universe
+- 💻 Tech I work with daily: `Python`, `JavaScript`, `HTML/CSS`, `C`, `Java`
+- 🔧 Building full-stack applications with a focus on performance, usability, and clean architecture
+- 🌱 Diving deeper into **Open Source**, scalable systems, and cloud tech
+- 🎯 Passionate about turning ideas into real-world products and solving complex problems
+- 💬 Let's talk code, product design, or geek out about the **Marvel Cinematic Universe**
+- 📫 Reach me at: **rohangosavi01@gmail.com**
+
 
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohangosavi01&theme=graywhite&show_icons=true)
